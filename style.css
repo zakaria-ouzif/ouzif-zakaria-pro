@@ -1,0 +1,32 @@
+body {
+	background-color: rgb(240;240;240)
+	color: black;
+	text-align: justify;
+	}
+
+h1{
+	color : rgb(132,46,27);
+	font-family: Arial, sans-serif;
+	font-weight : 100;
+	font-size: 60px;
+	font:bold}
+
+h3{
+	color:rgb(132,46,27);
+	font-family: Arial, sans-serif;
+	font-size : 27px ; }
+
+
+p{
+	color:black;
+	font-family:  Arial, sans-serif;
+	font-size : 20px ;}
+
+h4{
+	color:rgb(132,46,27);
+	font-family:  Arial, sans-serif;
+	font-size : 20px ; }
+
+.whole-index{text-align: center;}
+
+ #Images/fin.jpeg {width: 100%}
